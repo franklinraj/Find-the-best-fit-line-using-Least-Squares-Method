@@ -18,6 +18,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 7. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 8. End
 ## Program:
+
 ```
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by: FRANKLIN RAJ G
